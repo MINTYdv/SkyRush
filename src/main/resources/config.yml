@@ -1,0 +1,22 @@
+# Configuration du plugin SkyRush
+# Copyright LeemonMC (www.leemonmc.fr) 2019-2020
+# Plugin par MINTY (MINTY#8171)
+
+# Couche à laquelle un joueur est éliminé
+death-level: 110
+
+# Objectif de points
+points-goal: 4
+
+# Configuration de la bordure de map
+worldborder:
+  lobby:
+    size: 1500
+    center:
+      x: 0
+      z: 0
+  game:
+    size: 50
+    center:
+      x: -210
+      z: 1
